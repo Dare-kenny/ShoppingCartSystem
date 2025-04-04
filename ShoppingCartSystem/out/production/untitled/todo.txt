@@ -1,0 +1,8 @@
+Hello
+add item, remove item, update item description, checkout(if list is empty handle error)
+choose ,shoes,bags,clothes or jewlery
+you chose bags
+select bag description
+("Bag added to cart")
+do you wish to:
+add item(2) , remove item(2), update item description'(2), checkout(breaks loop)
